@@ -1,5 +1,5 @@
 # MPI-Numerik
-This repository contains how to execute a numeric program in python using MPI with an Ubuntu Master & 3 Ubuntu Slave
+This repository contains how to execute a numeric program in python using MPI with an Ubuntu Master & 3 Ubuntu Slave.
 ## Topologi
 ![image](https://github.com/Tamagoyakiii/Pratama-Arjan-Rangkuti-Numerik/assets/150600551/72cec987-4c08-4b4c-9d2c-024e3f87b8fc)
 ## 1. Upgrade OS
