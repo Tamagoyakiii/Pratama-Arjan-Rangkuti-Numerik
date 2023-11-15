@@ -16,7 +16,7 @@ Configuration of NFS (Network File System) involves the process of setting up an
 MPI stands for "Message Passing Interface." It is a communication standard used in parallel programming, especially in distributed programming for cluster-based or supercomputer systems. Installing MPI can be done using the command 'sudo apt install openmpi-bin libopenmpi-dev'.
 ## 7. Konfigurasi Python
 Installing Python version 3 using the command 'sudo apt install python3'.
-## 8. Menjalankan Numerik
+## 8. Running Numerik
 Running the edited file using the command 'mpirun -n <number of processes> -hostfile <host list> python3 <filename>.py'.
 ![image](https://github.com/Tamagoyakiii/Pratama-Arjan-Rangkuti-Numerik/assets/150600551/b4b63e46-0d1c-47fe-816e-3d6d9d15cfcb)
 ![image](https://github.com/Tamagoyakiii/Pratama-Arjan-Rangkuti-Numerik/assets/150600551/0397d74e-472a-420c-a011-fb7e0a6cd30a)
